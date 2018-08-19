@@ -1,6 +1,6 @@
-<p align="center"><img src="https://assets.entrepreneur.com/content/3x2/2000/20150612050207-shutterstock-195559808.jpeg?width=700&crop=2:1" width="400"></p>
+<p align="center"><img src=https://www.solostream.com/wp-content/uploads/2017/01/E-commerce-web-development.png" width="400"></p>
 
-## About Ecommerce Admin
+## About Ecommerce App
 
 Ecommerce App is a native android ecommerce application. Using this app, user can view the products posted by the ecommerce admin and place orders.
 
