@@ -2,7 +2,7 @@
 
 ## About Ecommerce App
 
-Ecommerce App is a native android ecommerce application. Using this app, user can view the products posted by the ecommerce admin and place orders.
+Ecommerce App is a native android ecommerce application. Using this app, user can view the products posted by the ecommerce admin and also they  can place orders.
 
 ## Contributing
 
