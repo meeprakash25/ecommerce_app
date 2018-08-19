@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="shipping_array">
+        <item>POS(Point Of Sale)</item>
+        <item>JNE</item>
+        <item>TIKI</item>
+        <item>COD(Cash On Delivery)</item>
+    </string-array>
+
+</resources>
